@@ -22,4 +22,6 @@ public class FacebookAppTest {
 		System.out.println("Hello TestNG");
 		
 	}
+	
+	
 }
