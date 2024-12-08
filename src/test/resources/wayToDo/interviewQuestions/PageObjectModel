@@ -1,0 +1,12 @@
+what is POM page object model
+what is page repository or page factory class
+what is client class or test class in POM
+what is has a relationship in java
+what is is a relationship in java
+what is constructor
+what page factory
+what is page factory in it elements
+what is @FindBy 
+how page factory implements constructor in Selenium
+how do you design page factory mehthods
+explain @FindBy(name="firstname") private WebElement fName;
