@@ -2,7 +2,6 @@ package facebookWebDriver;
 
 import java.time.Duration;
 
-import org.jspecify.annotations.Nullable;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
