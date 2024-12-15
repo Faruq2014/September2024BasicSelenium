@@ -53,6 +53,6 @@ public class LoginTest {
 
 	@AfterTest
 	public void closeApp() {
-		// driver.quit();
+		 driver.quit();
 	}
 }

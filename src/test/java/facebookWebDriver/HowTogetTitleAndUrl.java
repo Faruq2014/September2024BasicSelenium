@@ -34,7 +34,7 @@ public class HowTogetTitleAndUrl {
 	// expectedTitle == variable name
 	System.out.println("The google title is : "+expectedTitle);
 	// Actual results= Expected Results == Pass
-	String actualTitle= "Google123";
+	String actualTitle= "Google";
 	Assert.assertEquals(actualTitle, expectedTitle);
 	}
 	

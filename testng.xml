@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+  <test  name="Login Test">
+    <classes>
+      <class name="facebookWebDriver.HowToCloseApp"/>
+      <class name="com.facebookLocators.HowToOpenLinkPage"/>
+      <class name="facebookWebDriver.HowTogetTitleAndUrl"/>
+      <class name="com.facebookLocators.LoginTest"/>
+      <class name="com.facebookAppTest.FacebookAppTest"/>
+      <class name="com.facebookAppTest.OpenFacebookAppTest"/>
+      <class name="com.facebookLocators.LoginBoundaryTest"/>
+      <class name="facebookWebDriver.HowToMaximizeApp"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
